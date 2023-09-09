@@ -1,9 +1,16 @@
  
-<div>
-  <h1 aling="Center">Hi there, I'm Tadeo Daniel</h1>
+<div align="center">
+  <h1>Hi there, I'm Tadeo Daniel</h1>
   
 </div>
-[![Sourav Dey's Blog Cards](https://github-cards-external-blogs.souravdey777.vercel.app/getMediumBlogs?username=Souravdey777&type=vertical)](https://medium.com/@Souravdey777)
+<div>
+   <h2>About me</h1>
+</div>
+<!--UL-->
+* Fullstack Development Jr
+  * Fullstack Development Jr
+
+* Fullstack Development Jr
 
 <!--
 **Bluestark23/Bluestark23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
