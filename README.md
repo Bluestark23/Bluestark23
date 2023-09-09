@@ -8,9 +8,9 @@
 ## About-me
 
 <!--UL-->
-* Fullstack Development Jr
+- Fullstack Development Jr
   * Fullstack Development Jr
-
+- Founder of Estrella Azul IT
 * Fullstack Development Jr
 
 <!--
