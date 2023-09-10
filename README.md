@@ -18,10 +18,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="www.linkedin.com/in/tadeo-daniel-mora-cruz-932a9a213" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tadeo daniel mora cruz" height="30" width="40" /></a>
-<a href="https://fb.com/isc tadeo daniel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="isc tadeo daniel" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/tadeo-daniel-mora-cruz-932a9a213" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/tadeo-daniel-mora-cruz-932a9a213" height="30" width="40" /></a>
+<a href="https://fb.com/tadeodaniel.moracruz?mibextid=zbwkwl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/tadeodaniel.moracruz?mibextid=zbwkwl" height="30" width="40" /></a>
 </p>
-
 
 
 
