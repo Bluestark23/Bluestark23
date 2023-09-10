@@ -3,8 +3,7 @@
   <h1>Hi there, I'm Tadeo Daniel</h1>
 </div>
  
-
-<img src="https://github.com/Bluestark23/Bluestark23/raw/main/assets/71661565/e663438b-592f-4e39-a9c4-acdf5f71653f/Git3.png" alt="Git3" width="300" height="200">
+![aseprite_WXUqYzvVZN](https://github.com/Bluestark23/Bluestark23/assets/71661565/17527464-9e33-4cd1-bcd6-1c02670b2916)
 
 ![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCm9sTwU6-Yz_O_bN2vaI3fQ?style=for-the-badge&logo=Youtube&color=%23FF0000)
 
