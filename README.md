@@ -1,6 +1,6 @@
  
 <div align="center">
-  <h1>Hi there, I'm Tadeo Daniel</h1>
+  <h1>Hi there 👋, I'm Tadeo Daniel</h1>
 </div>
  <p align="center">
   <img  src="https://github.com/Bluestark23/Bluestark23/assets/71661565/17527464-9e33-4cd1-bcd6-1c02670b2916 ">
