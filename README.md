@@ -12,7 +12,7 @@
 
 <!--UL-->
 - 🔭Fullstack Development Jr
-- Founder of Estrella Azul IT
+- 👨‍💻Founder of Estrella Azul IT
 - 📫 How to reach me: tadeo_daniel4@hotmail.com
 - 🌱 I’m currently learning **Javascript and Markdown**
 
