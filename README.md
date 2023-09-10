@@ -2,11 +2,20 @@
 <div align="center">
   <h1>Hi there, I'm Tadeo Daniel</h1>
 </div>
+ 
+
+<img src="https://github.com/Bluestark23/Bluestark23/raw/main/assets/71661565/e663438b-592f-4e39-a9c4-acdf5f71653f/Git3.png" alt="Git3" width="300" height="200">
 
 ![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCm9sTwU6-Yz_O_bN2vaI3fQ?style=for-the-badge&logo=Youtube&color=%23FF0000)
 
 ## About-me
 
+<!--UL-->
+- Fullstack Development Jr
+- Founder of Estrella Azul IT
+- 📫 How to reach me: tadeo_daniel4@hotmail.com
+
+* Fullstack Development Jr
 
 
 
@@ -21,14 +30,10 @@
 
 
 
-<!--UL-->
-- Fullstack Development Jr
-  * Fullstack Development Jr
-- Founder of Estrella Azul IT
-* Fullstack Development Jr
 
 <!--
 **Bluestark23/Bluestark23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Git3](https://github.com/Bluestark23/Bluestark23/assets/71661565/e663438b-592f-4e39-a9c4-acdf5f71653f)
 
 Here are some ideas to get you started:
 
