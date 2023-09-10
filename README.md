@@ -2,8 +2,9 @@
 <div align="center">
   <h1>Hi there, I'm Tadeo Daniel</h1>
 </div>
- 
-![aseprite_WXUqYzvVZN](https://github.com/Bluestark23/Bluestark23/assets/71661565/17527464-9e33-4cd1-bcd6-1c02670b2916)
+ <p align="center">
+  <img  src="https://github.com/Bluestark23/Bluestark23/assets/71661565/17527464-9e33-4cd1-bcd6-1c02670b2916 ">
+</p>
 
 ![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCm9sTwU6-Yz_O_bN2vaI3fQ?style=for-the-badge&logo=Youtube&color=%23FF0000)
 
@@ -13,8 +14,13 @@
 - Fullstack Development Jr
 - Founder of Estrella Azul IT
 - 📫 How to reach me: tadeo_daniel4@hotmail.com
+- 🌱 I’m currently learning **Javascript and Markdown**
 
-* Fullstack Development Jr
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/tadeo daniel mora cruz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tadeo daniel mora cruz" height="30" width="40" /></a>
+<a href="https://fb.com/isc tadeo daniel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="isc tadeo daniel" height="30" width="40" /></a>
+</p>
 
 
 
@@ -32,6 +38,9 @@
 
 <!--
 **Bluestark23/Bluestark23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+![aseprite_WXUqYzvVZN](https://github.com/Bluestark23/Bluestark23/assets/71661565/17527464-9e33-4cd1-bcd6-1c02670b2916)
+
 ![Git3](https://github.com/Bluestark23/Bluestark23/assets/71661565/e663438b-592f-4e39-a9c4-acdf5f71653f)
 
 Here are some ideas to get you started:
