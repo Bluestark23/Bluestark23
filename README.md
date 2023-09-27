@@ -14,7 +14,7 @@
 - 🔭Fullstack Development Jr
 - 👨‍💻Founder of Estrella Azul IT
 - 📫 How to reach me: tadeo_daniel4@hotmail.com
-- 🌱 I’m currently learning **Javascript, Gitlab, Gmaker and Markdown**
+- 🌱 I’m currently learning **Javascript, Gitlab and Godot**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
